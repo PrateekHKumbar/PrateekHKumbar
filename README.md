@@ -1,8 +1,4 @@
-# Hi there, I'm Prateek H Kumbar 👋
 
-An **Electronics & Telecommunication Engineering** student at Bangalore Institute of Technology, specializing in **Hardware-Software Co-Design**, **Embedded Telemetry (ESP32 / C++)**, and **Backend Data Systems (Python / FastAPI / SQL)**.
-
----
 # Hi there, I'm Prateek H Kumbar 👋
 
 An **Electronics & Telecommunication Engineering** student at Bangalore Institute of Technology, specializing in **Hardware-Software Co-Design**, **Embedded Telemetry (ESP32 / C++)**, and **Backend Data Systems (Python / FastAPI / SQL)**.
@@ -34,10 +30,6 @@ An **Electronics & Telecommunication Engineering** student at Bangalore Institut
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-[![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrateekHKumbar&show_icons=true&theme=dark)](https://github.com/PrateekHKumbar)
-### 🛠 Technical Capabilities Matrix
 
 - **Embedded Systems & Hardware:** ESP32, ATmega328P, 4G LTE (A7670C), GPS (Neo-6M), MPU6050, UART, I²C, SPI, I²S, Power Profiling
 - **Software & Data Stack:** Embedded C/C++, Python (Pandas, NumPy), SQL (PostgreSQL, MySQL), FastAPI, Pydantic, RESTful APIs
